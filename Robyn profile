@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Robyn Jackson Github Homepage</title>
+
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600|Bitter:700' rel='stylesheet' type='text/css'>
+<link href="styles.css" rel="stylesheet">
+
+<!-- Needed for mobile devices to not zoom out automatically-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+
+<body>
+
+	<div id="page">
+    
+   	  <header>
+        
+        	<h1>Robyn L Jackson</h1>
+            <h2>My Github Homepage</h2>
+        
+        </header>
+        
+        <section>
+        	<article id="about">
+            	<h1>About Me</h1>
+                <p><img src=""  alt="photo" class="alignleft">My name is Robyn Jackson and I'm a Front End Web Designer and Graphic Designer.</p>
+		<p>Mother of two children, a daughter who is a Human Resouce Manager, and a son who is a Commercial and Residential Electrician and AV Specialist. </p>
+                <p>Art is my love; I'm at my best when creativity is happening. Painting is also a serious interest of mine; my primary medium is acrylic. I believe exploration is everything.</p>
+		<p>It would be impossible for me to choose which I love more, building a website or creating a new logo or some other graphic image.	
+            </article>
+            
+            <article id="projects">
+            	<h2>My Projects</h2>
+                <ol>
+                    <li>rljdesignportfolio.com</li>
+                    <li>Here is an important project</li>
+                    <li>Here is an important project</li>
+                    <li>Here is an important project</li>
+                    <li>Here is an important project</li>
+                </ol>
+            
+            	<h2>My Skills</h2>
+                <p>My focus discipline is web design and graphic design. My skill set includes HTML, CSS, JS, WordPress, Digital Marketing,and Adobe Creative Cloud Suite including XD</p>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>Graphics</li>
+                    <li>WordPress</li>
+                </ul>
+            </article>
+        
+        </section>
+        
+        <footer>
+       	  <h1>Ways to contact me</h1>
+            <p><strong>Phone</strong> 916.580.5095 <br>
+			   <strong>Email</strong> robynlainejackson@gmail.com <br>
+			   <strong>rlj design portfolio</strong> <a href="http://rljdesignportfolio.com">http://rljdesignportfolio.com</a></p>
+      </footer>
+    
+    </div>
+
+</body>
+</html>
